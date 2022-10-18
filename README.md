@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bartek-pierr
+- 👀 I’m interested in Front End Development, UI/UX and Graphic Design
+- 🌱 I’m currently learning Typescript and Vue.js
+- 📫 bartek.pierr@gmail.com
