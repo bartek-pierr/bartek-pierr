@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @bartek-pierr
-- 👀 I’m interested in Front End Development, UI/UX and Graphic Design
-- 🌱 I’m currently learning Typescript and Vue.js
-- 📫 bartek.pierr@gmail.com
+const name = 'Bartek'
+const nick = 'Pierr'
+const lastName = 'Frątczak'
+const interests = 'Front End Development, UI/UX Graphic Design'
+const technologies = 'HTML, CSS, JavaSCript, Typescript, VUE.JS'
+const mail = 'bartek.pierr@gmail.com'
