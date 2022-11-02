@@ -1,6 +1,8 @@
--- const name = 'Bartek'
--- const nickName = 'Pierr'
--- const lastName = 'Frątczak'
--- const interests = 'Front End Development, UI/UX Graphic Design'
--- const technologies = 'HTML, CSS, JavaSCript, Typescript, VUE.JS'
--- const mail = 'bartek.pierr@gmail.com'
+<ul>
+  <li>const name = 'Bartek'</li>
+  <li>const nickName = 'Pierr'</li>
+  <li>const lastName = 'Frątczak'</li>
+  <li>const interests = 'Front End Development, UI/UX Graphic Design'</li>
+  <li>const technologies = 'HTML, CSS, JavaSCript, Typescript, VUE.JS'</li>
+  <li>const mail = 'bartek.pierr@gmail.com'</li>
+</ul>
